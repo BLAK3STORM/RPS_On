@@ -1,9 +1,10 @@
 ﻿# RPS On! (Rock Paper Scissors On)
-* An Old Fashion Rock Paper Scissors game
+* An Old Fashion 3 rounds Rock Paper Scissors game
 ## Installation
-1. Go to [Releases]()
-2. Download & Extract ..
-3. Run the ```executable``` Play & Enjoy!
+1. Go to [Releases](https://github.com/BLAK3STORM/RPS_On/releases/tag/v1.0.0.0)
+2. Download & Extract *RPS.On.rar*
+3. Run the ```executable```
+4. Play & Enjoy!
 ## Requirements
 1. OS: ***Windows 7 or Above***
 2. Requires Microsoft .NET Framework 4.7.2
