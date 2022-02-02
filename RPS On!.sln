@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPS On!", "RPS On!.csproj", "{EC5ABA0A-1223-4A61-BEAD-9EB2F3444BD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5ABA0A-1223-4A61-BEAD-9EB2F3444BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5ABA0A-1223-4A61-BEAD-9EB2F3444BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5ABA0A-1223-4A61-BEAD-9EB2F3444BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5ABA0A-1223-4A61-BEAD-9EB2F3444BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {119CC02C-657F-48C0-9029-3A0061F2EEC4}
+	EndGlobalSection
+EndGlobal
